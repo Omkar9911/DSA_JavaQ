@@ -53,7 +53,6 @@ public class q2_reverse_array
         }
         System.out.println();
         reverse(number);
-        // print array
 
     }
 }
