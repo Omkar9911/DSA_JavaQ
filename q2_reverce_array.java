@@ -11,6 +11,7 @@ public class q2_reverce_array
 {
     public static void reverce(int number[])
     {
+
         int start = 0;
         int end = number.length-1;
         for(int i=0; i<number.length; i++)
@@ -56,5 +57,4 @@ public class q2_reverce_array
         // print array
 
     }
-
 }
