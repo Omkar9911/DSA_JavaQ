@@ -7,11 +7,10 @@
 // start = start +1, end = end – 1
 
 import java.util.Scanner;
-public class q2_reverce_array
+public class q2_reverse_array
 {
-    public static void reverce(int number[])
+    public static void reverse(int number[])
     {
-
         int start = 0;
         int end = number.length-1;
         for(int i=0; i<number.length; i++)
@@ -53,7 +52,7 @@ public class q2_reverce_array
             System.out.print( number[i]+ " " );
         }
         System.out.println();
-        reverce(number);
+        reverse(number);
         // print array
 
     }
