@@ -2,8 +2,8 @@
 //  #DSA 1
 // Algorithm:
 
-// 1) Initialize start and end indexes as start = 0, end = n-1 
-// 2) In a loop, swap arr[start] with arr[end] and change start and end as follows : 
+// 1) Initialize start and end indexes as start = 0, end = n-1
+// 2) In a loop, swap arr[start] with arr[end] and change start and end as follows :
 // start = start +1, end = end – 1
 
 import java.util.Scanner;
@@ -56,4 +56,5 @@ public class q2_reverce_array
         // print array
 
     }
+
 }
