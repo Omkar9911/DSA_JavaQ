@@ -1,4 +1,4 @@
-/* Question 9: Given an integer array nums, return true if any value appears at least twice in the
+package Array;/* Question 9: Given an integer array nums, return true if any value appears at least twice in the
 array, and return false if every element is distinct.
 #DSA 4
 Example 1:

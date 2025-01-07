@@ -1,4 +1,4 @@
-// Q2. Write a program to reverse an array
+package Array;// Q2. Write a program to reverse an array
 //  #DSA 1
 // Algorithm:
 

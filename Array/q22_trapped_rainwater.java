@@ -1,4 +1,4 @@
-// Q1 Trappint Rainwater
+package Array;// Q1 Trappint Rainwater
 /*  Given n non-negative intergers representing an elevation map whare the width of each bar is 1, compute how much water it can trap after raining
  *  DSA #22
  *  #Medium

@@ -1,4 +1,4 @@
-// Q1. Maximum and minimum of an array using Sorting:
+package Array;// Q1. Maximum and minimum of an array using Sorting:
 //  #DSA 1
 // Algorithm:
 
