@@ -1,4 +1,4 @@
-package Array;// Q1 Trappint Rainwater
+// Q1 Trappint Rainwater
 /*  Given n non-negative intergers representing an elevation map whare the width of each bar is 1, compute how much water it can trap after raining
  *  DSA #22
  *  #Medium
@@ -26,8 +26,10 @@ Output: -1
 Example 3:
 
 Input: nums = [1], target = 0
-Output: -1*/
+Output: -1
+*/
 
+package Array;
 import java.util.*;
 public class q22_trapped_rainwater
 {

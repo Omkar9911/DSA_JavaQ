@@ -1,4 +1,4 @@
-package Array;// Q2. Write a program to reverse an array
+// Q2. Write a program to reverse an array
 //  #DSA 1
 // Algorithm:
 
@@ -6,6 +6,7 @@ package Array;// Q2. Write a program to reverse an array
 // 2) In a loop, swap arr[start] with arr[end] and change start and end as follows :
 // start = start +1, end = end – 1
 
+package Array;
 import java.util.Scanner;
 public class q2_reverse_array
 {

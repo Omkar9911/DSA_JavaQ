@@ -1,4 +1,4 @@
-package Array;// Q1. Maximum and minimum of an array using Sorting:
+// Q1. Maximum and minimum of an array using Sorting:
 //  #DSA 1
 // Algorithm:
 
@@ -8,6 +8,7 @@ package Array;// Q1. Maximum and minimum of an array using Sorting:
 // 4.The last element of the array will be the maximum element.
 // 5.Print the minimum and maximum element.
 
+package Array;
 import java.util.Scanner;
 public class q1_max_min_element
 {

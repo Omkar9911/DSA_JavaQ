@@ -1,4 +1,4 @@
-package Array;// Q5. Chocolate Distribution Problem
+// Q5. Chocolate Distribution Problem
 
 /*
 Given an array arr[] of n integers where arr[i] represents the number of chocolates in ith packet. Each packet can have a variable number of chocolates. There are m students, the task is to distribute chocolate packets such that:
@@ -22,7 +22,7 @@ Explanation: If we distribute chocolate packets {3, 2, 4, 9, 7}, we will get the
 
 
 
-
+package Array;
 import java.util.Arrays;
 
 public class q5_chocolate_distribution {

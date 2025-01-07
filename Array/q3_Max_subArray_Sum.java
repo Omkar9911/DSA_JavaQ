@@ -1,4 +1,4 @@
-package Array;
+
 // Q 3 Max SubArray sum
 /*
 Example 1:
@@ -17,7 +17,7 @@ Example 1:
         Output: 23
         Explanation: The subarray [5,4,-1,7,8] has the largest sum 23.*/
 
-
+package Array;
 import java.util.Scanner;
 public class q3_Max_subArray_Sum
 {

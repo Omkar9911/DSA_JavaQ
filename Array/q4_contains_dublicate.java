@@ -1,4 +1,4 @@
-package Array;/* Question 9: Given an integer array nums, return true if any value appears at least twice in the
+/* Question 9: Given an integer array nums, return true if any value appears at least twice in the
 array, and return false if every element is distinct.
 #DSA 4
 Example 1:
@@ -12,6 +12,7 @@ Input: nums = [1, 1, 1, 3, 3, 4, 3, 2, 4, 2]
 Output: true
 */
 
+package Array;
 import java.util.Scanner;
 
 public class q4_contains_dublicate
