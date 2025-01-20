@@ -1,3 +1,18 @@
+
+//Q Remove Consecutive Characters
+/*
+You are given a string s, consisting of lowercase alphabets. Your task is to remove consecutive duplicate characters from the string.
+
+Example:
+
+Input: s = "aabb"
+Output:  "ab"
+Input:s = "aabaa"
+Output: "aba"
+Input: s = "abcddcba"
+Output: "abcdcba"
+*/
+
 package String;
 
 import java.io.BufferedReader;
