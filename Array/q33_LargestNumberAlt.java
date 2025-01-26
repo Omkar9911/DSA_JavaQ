@@ -1,3 +1,27 @@
+
+//Arrange given numbers to form the biggest number
+/*
+concatenating them in order, it results in the largest possible number. Since the result may be very large, return it as a string.
+
+Examples:
+
+Input: arr[] =  [3, 30, 34, 5, 9]
+Output: “9534330”
+Explanation: The arrangement [9, 5, 34, 3, 30], gives the largest value “9534330”.
+
+
+Input: arr[] =  [54, 546, 548, 60]
+Output: “6054854654”
+Explanation: The arrangement [60, 548, 546, 54], gives the largest value “6054854654”.
+
+
+Input: arr[] =  [3, 4, 6, 5, 9]
+Output: “96543”
+Explanation: The arrangement [9, 6, 5, 4, 3], gives the largest value “96543”.
+
+*/
+
+
 package Array;
 
 import java.util.Arrays;
