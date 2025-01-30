@@ -62,6 +62,4 @@ public class Q78_Find_common_arrays_Elements {
         System.out.println("Common Elements: " + result);
     }
 
-
-
 }
