@@ -17,6 +17,7 @@ Example 3:
 Input: board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "ABCB"
 Output: false*/
 
+
 package Array;
 
 public class q68_WordSearch {
@@ -24,7 +25,7 @@ public class q68_WordSearch {
     public boolean exist(char[][] board, String word) {
         int rows = board.length;
         int cols = board[0].length;
-        
+
         // Iterate through the board to find the starting letter of the word
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
@@ -76,5 +77,7 @@ public class q68_WordSearch {
         System.out.println(ws.exist(board, "SEE"));    // Output: true
         System.out.println(ws.exist(board, "ABCB"));   // Output: false
     }
+
+
 
 }
