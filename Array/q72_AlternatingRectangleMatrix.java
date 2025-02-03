@@ -33,7 +33,8 @@ X 0 0 0 0 0 X
 X 0 X X X 0 X
 X 0 X X X 0 X
 X 0 0 0 0 0 X
-X X X X X X X 
+X X X X X X X
+
 */
 
 package Array;
