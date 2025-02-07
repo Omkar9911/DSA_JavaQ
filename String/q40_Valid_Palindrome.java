@@ -65,5 +65,6 @@ public class q40_Valid_Palindrome {
         System.out.println(solution.isPalindrome(s3)); // Output: true
     }
 
+    
 
 }
